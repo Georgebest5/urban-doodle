@@ -1,0 +1,35 @@
+body
+{
+background-size:cover;
+}
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+#start,#number_of_objects,#status
+{
+    font-size: 18px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #2582d5;
+    bottom: 0;
+    width:100%;
+    background-color:#ed05e1f0 ;
+    line-height: 5;
+    text-align: center;
+}
+canvas {
+border:2px solid white;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px white;
+}
+tag{
+    color: blue;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
